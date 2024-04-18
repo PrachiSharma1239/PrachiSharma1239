@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrachiSharma1239
-- 👀 I have a core interest in smart contracts and how to deal with it. 
+- 👀 I have a core intrrest in coding.
 - 🌱 I’m currently learning bachelor's of computer science
-- 💞️ I’m looking to collaborate on solidity & smart contracts
+- 💞️ I’m looking to collaborate as a software engineer.
 - 📫 How to reach me- https://www.linkedin.com/in/prachi-sharma-b04b87277
 -  email id- prachi@12092003@gmail.com
 
