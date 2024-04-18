@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrachiSharma1239
-- 👀 I have a core intrrest in coding.
+- 👀 I have a core intrest in coding.
 - 🌱 I’m currently learning bachelor's of computer science
 - 💞️ I’m looking to collaborate as a software engineer.
 - 📫 How to reach me- https://www.linkedin.com/in/prachi-sharma-b04b87277
