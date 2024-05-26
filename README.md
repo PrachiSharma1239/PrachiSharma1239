@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bachelor's of computer science
 - 💞️ I’m looking to collaborate as a software engineer.
 - 📫 How to reach me- https://www.linkedin.com/in/prachi-sharma-b04b87277
--  email id- prachi@12092003@gmail.com
+-  email id- prachi12092003@gmail.com
 
 
 <!---
