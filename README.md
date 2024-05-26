@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrachiSharma1239
+- 👋 Hi, I’m Prachi Sharma
 - 👀 I have a core intrest in coding.
 - 🌱 I’m currently learning bachelor's of computer science
 - 💞️ I’m looking to collaborate as a software engineer.
